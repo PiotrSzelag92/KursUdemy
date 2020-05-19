@@ -8,7 +8,7 @@ public class Student {
 
     public void przedstawSie() {
         System.out.println("Cześć! Nazywam się "  + imie + " " + nazwisko);
-    };
+    }
 
 
 
